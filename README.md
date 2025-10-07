@@ -93,10 +93,7 @@ Database integration • Performance optimization • Real project development
 
 ## 📞 Contact & Support
 
-**Trainer:** Chetan Parekh  
-📧 chetan.parekh12@gmail.com  
-📱 +352 661296969  
-🔗 [LinkedIn](https://linkedin.com/in/chetan19)  
+**Trainer:** Chetan Parekh
 📍 Luxembourg
 
 **Training Hours:** Mon-Fri, 9 AM - 5 PM (on-site)  

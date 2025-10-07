@@ -834,10 +834,7 @@ Week 1-4: Training → Months 1-2: High Support → Month 3: Low Support → Ind
 
 ### Your Trainer
 
-**Chetan Parekh**  
-📧 chetan.parekh12@gmail.com  
-📱 +352 661296969  
-🔗 [LinkedIn: chetan19](https://linkedin.com/in/chetan19)  
+**Chetan Parekh**
 📍 Luxembourg (On-site available)
 
 **Experience:**
