@@ -597,7 +597,7 @@ See: [Support Overview](phase2-support/support-overview.md) for details.
 
 ---
 
-**Last Updated:** October 2025 | **Version:** 1.0  
+**Last Updated:** October 2025 | **Version:** 1.1  
 **Designed for:** Luxair Development Team
 
 ---

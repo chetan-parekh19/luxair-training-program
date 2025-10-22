@@ -971,7 +971,7 @@ Real-World Focus + Hands-on Practice + Expert Guidance + Team Collaboration = Su
 
 ---
 
-**Last Updated:** October 2025 | **Version:** 1.0  
+**Last Updated:** October 2025 | **Version:** 1.1  
 **Designed for:** Luxair Development Team
 
 ---
