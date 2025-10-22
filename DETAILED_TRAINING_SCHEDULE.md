@@ -10,13 +10,13 @@
 | Jump To | Description |
 |---------|-------------|
 | [20-Day Overview Table](#-20-day-overview-table) | All days at a glance |
-| [Weekly Milestones](#🎯-weekly-milestones) | What you'll achieve each week |
+| [Weekly Milestones](#-weekly-milestones) | What you'll achieve each week |
 | [Week 1: Python Foundations](#week-1-python-foundations--modern-tooling) | Days 1-5 |
 | [Week 2: Django Core](#week-2-django-core--database) | Days 6-10 |
 | [Week 3: APIs & Advanced](#week-3-rest-apis-security--background-tasks) | Days 11-15 |
 | [Week 4: Production Ready](#week-4-oracle-deep-dive-integrations--production) | Days 16-20 |
-| [Topic Coverage Summary](#📊-complete-topic-coverage-checklist) | Complete requirements coverage |
-| [Support & Logistics](#🤝-support--logistics) | Flexibility, Q&A, post-training |
+| [Topic Coverage Summary](#-complete-topic-coverage-checklist) | Complete requirements coverage |
+| [Support & Logistics](#-support--logistics) | Flexibility, Q&A, post-training |
 
 ---
 
