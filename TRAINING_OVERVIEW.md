@@ -135,6 +135,18 @@
 └─────────────────────────────────────────────────────────────┘
 ```
 
+### 📆 Day-by-Day Breakdown
+
+**Want to see exactly what topics are covered each day?**
+
+👉 **[View Complete Day-by-Day Schedule](DETAILED_TRAINING_SCHEDULE.md)**
+
+**Quick Preview:**
+- **Days 1-5:** Python foundations, testing, tooling
+- **Days 6-10:** Django core, Oracle basics, HTMX
+- **Days 11-15:** DRF, security, background tasks
+- **Days 16-20:** Oracle deep dive, Kafka, deployment
+
 ### 📆 Typical Training Day (Weeks 1-4)
 
 ```

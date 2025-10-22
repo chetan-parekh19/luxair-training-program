@@ -9,6 +9,9 @@ A comprehensive **4-week intensive training + 3-month support program** designed
 **Team:** 2-8 developers (mixed skill levels)  
 **Outcome:** Self-sufficient team building enterprise Django applications
 
+> 📌 **NEW: Looking for the daily breakdown?**  
+> → **[View Day-by-Day Training Schedule](DETAILED_TRAINING_SCHEDULE.md)** (20 days detailed)
+
 ---
 
 ## 📅 Program Timeline
@@ -25,6 +28,7 @@ A comprehensive **4-week intensive training + 3-month support program** designed
 
 ### 📖 **Training Curriculum**
 - **[Complete Training Overview](TRAINING_OVERVIEW.md)** - Detailed program guide
+- **[🗓️ Day-by-Day Schedule](DETAILED_TRAINING_SCHEDULE.md)** - ⭐ Daily topics breakdown
 - **[Week 1: Python Foundations](phase1-training/week1-python-foundations.md)**
 - **[Week 2: Django Fundamentals](phase1-training/week2-django-fundamentals.md)**
 - **[Week 3: Django REST Framework](phase1-training/week3-drf-apis.md)**
